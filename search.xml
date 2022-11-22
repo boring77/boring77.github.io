@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>文章测试</title>
+      <link href="/blog/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+      <url>/blog/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试页面</title>
       <link href="/blog/done/"/>
       <url>/blog/done/</url>
